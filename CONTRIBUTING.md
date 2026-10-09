@@ -1,4 +1,4 @@
-There are a number of ways to contribute for people all skills and skill levels.
+There are a number of ways to contribute for people of all skills and skill levels.
 
 Translation
 -----------
@@ -17,7 +17,7 @@ Support Other Users
 -------------------
 
 An easy way for non-programmers to help is simply to participate in the
-[Shotcut Forum](https://forum.shotcut.org/) by answering user's questions.
+[Shotcut Forum](https://forum.shotcut.org/) by answering users' questions.
 Alternatively, consider making a tutorial video on YouTube or similar.
 
 Write Documentation
@@ -36,7 +36,7 @@ Report a Bug
 
 You can report a bug on the [Shotcut Forum](https://forum.shotcut.org/) using
 the Bug category or on [GitHub Issues](https://github.com/mltframework/shotcut/issues/). Bug reports must include the Shotcut version, your operating system,
-and the steps. It can helpful to include a screenshot, screencast video, or
+and the steps. It can be helpful to include a screenshot, screencast video, or
 project file. Please do not use this to request a feature.
 
 Make a Preset
